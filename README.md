@@ -28,7 +28,7 @@ Je suis capable de transformer des données brutes en insights exploitables pour
 
 ---
 
-## 🧠 Compétences
+##  Compétences
 
 ### Data & IA
 - Python (Pandas, NumPy)
@@ -50,7 +50,7 @@ Je suis capable de transformer des données brutes en insights exploitables pour
 
 ---
 
-## 📊 Projets
+##  Projets
 
 ### Analyse des ventes (Power BI)
 - Création de dashboards interactifs
